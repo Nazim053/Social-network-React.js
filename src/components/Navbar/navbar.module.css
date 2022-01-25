@@ -1,0 +1,27 @@
+.nav {
+    line-height: 50px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 10px 10px;
+    background: #35239c;;  
+    min-height: 600px;
+    width: 20%;
+  }
+
+  .item{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  .item :hover{
+    color:rgb(0, 0, 0);
+    font-size: 26px;
+     }
+
+ .item.active {
+   color:rgb(255, 153, 0)
+ }

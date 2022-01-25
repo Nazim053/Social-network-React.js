@@ -1,0 +1,41 @@
+.contentProfil {
+    width: 100%;
+      padding: 10px 10px;
+    }
+    
+    .content{
+      margin: 0 10px;
+      width: 80%;
+      min-height: 600px;
+      background: rgb(4, 7, 56);
+    }
+    
+    
+    .item {
+     width: 100%;
+      color: rgb(0, 0, 0);
+      text-align: center;
+      cursor: pointer;
+      text-transform: uppercase;
+     
+     }
+  
+      .item a:hover{
+    color:rgb(25, 101, 124);
+    font-size: 22px;
+     }
+  
+  
+     .infoStatus {
+      margin: 10px 0px;
+      background: #0b023d;
+      height: 80px;
+      font-size: 20px;
+      padding: 0 10px;
+      display: flex;
+      justify-content: space-between;
+      text-align: center;
+      align-items: center;
+      
+      
+    }

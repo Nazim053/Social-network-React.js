@@ -1,0 +1,30 @@
+
+
+.postText{
+    
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    display: flex;
+  }
+  
+  .textAdd {
+    
+    border-radius: 20px;
+    height: 60px;
+    width: 600px;
+    
+  }
+
+  
+  
+  .btnAdd { 
+    border-radius: 10px;
+    margin-left:8px;
+    margin-top: 5px;
+    height: 55px;
+    box-sizing: border-box;
+  }
+
+ 
+  

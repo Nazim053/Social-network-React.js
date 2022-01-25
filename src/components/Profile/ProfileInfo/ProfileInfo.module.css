@@ -1,0 +1,30 @@
+.contentProfil {
+    width: 100%;
+     
+    }
+    
+    
+    
+    .avatara img {
+      width: 100%;
+      
+    }
+    
+    .profil{
+      width: 100%;
+      display: flex;
+      background: rgb(226, 214, 214);
+    }
+    
+    
+    .imgProfil  img{
+      border-radius: 40px;
+      width: 150px;
+      padding: 5px 10px;
+    }
+    
+  
+  .infoProfil {
+    color:black;
+    font-size: 25px;
+  }

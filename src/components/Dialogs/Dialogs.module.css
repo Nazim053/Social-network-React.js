@@ -1,0 +1,41 @@
+li {
+  list-style-type: none;
+}
+
+.container {
+  padding: 10px 10px;
+  width: 100%;
+  
+}
+
+.flex_box {
+    display: flex;
+}
+
+.liItem {
+  font-size: 20px;
+  padding: 20px 0px;
+  border-bottom:1px solid rgb(255, 255, 255);
+  
+}
+
+.active {
+  color: yellow;
+  
+}
+
+
+.item {
+    background: rgb(80, 80, 160);
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.message {
+  margin: 20px;
+  
+}
+
+.userMessage {
+  padding-top:40px;
+}
